@@ -1,36 +1,35 @@
-<h3 align="center">Computer Science Graduate @ Tec de Monterrey </h3>
+<h3 align="center">Computer Science Graduate at Tec de Monterrey </h3>
 
 <p align="center">
-  <b>Full-Stack · Cloud · IoT & Robótica</b>
+  <b>Full-Stack · Cloud · IoT & Robotics</b>
 </p>
 
-## Sobre mí
+## About Me
 
 ```python
 class AlvaroLozano:
     def __init__(self):
         self.name = "Alvaro Eduardo Lozano Medina"
-        self.location = "México"
-        self.education = "B.S. Computer Science and Technology @ Tec de Monterrey"
-        self.interests = ["Full-Stack", "Cloud", "IoT", "Robótica", "AI"]
+        self.location = "Mexico"
+        self.interests = ["Full-Stack", "Cloud", "IoT", "Robotics", "AI"]
 ```
 
-- ☁️ Certificado en **Oracle Cloud Infrastructure** (Foundations y AI Foundations)
-- 🌐 Formándome en redes con **CCNA** (Cisco Networking Academy)
-- 🤖 Me gusta conectar software con el mundo físico: **ROS, sensores y robots colaborativos**
+- ☁️ Certified in **Oracle Cloud Infrastructure** (Foundations and AI Foundations)
+- 🌐 Building my networking skills with **CCNA** (Cisco Networking Academy)
+- 🤖 I love connecting software with the physical world: **ROS, sensors and collaborative robots**
 
-## Proyectos académicos
+## Academic Projects
 
 <table>
   <tr>
-    <th>Proyecto</th>
-    <th>Descripción</th>
+    <th>Project</th>
+    <th>Description</th>
     <th>Tech Stack</th>
-    <th>Enlaces</th>
+    <th>Links</th>
   </tr>
   <tr>
     <td><b>Rift</b></td>
-    <td>Plataforma cloud-native para gestión de proyectos con Scrum.</td>
+    <td>Cloud-native platform for project management with Scrum.</td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -42,7 +41,7 @@ class AlvaroLozano:
   </tr>
   <tr>
     <td><b>JurAid</b></td>
-    <td>App Android para gestión de casos y citas en una clínica jurídica.</td>
+    <td>Android app for case and appointment management at a legal clinic.</td>
     <td>
       <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
@@ -52,7 +51,7 @@ class AlvaroLozano:
   </tr>
   <tr>
     <td><b>Cobots + ROS + IoT</b></td>
-    <td>Paper de investigación: automatización de fábrica inteligente con robots OMRON, B1 y xArm.</td>
+    <td>Research paper: smart factory automation with OMRON, B1 and xArm robots.</td>
     <td>
       <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
       <img src="https://img.shields.io/badge/IoT-0A66C2?style=flat-square" />
@@ -62,11 +61,11 @@ class AlvaroLozano:
   </tr>
 </table>
 
-### Destacados
+### Highlights
 
-- **Rift:** autenticación con JWT, pruebas unitarias (JUnit + Mockito) y pruebas E2E con Selenium sobre flujos de proyectos y tableros Scrum.
-- **JurAid:** control de acceso por roles (abogados, clientes, estudiantes) y login biométrico con la BiometricPrompt API de Android.
-- **Cobots + ROS + IoT** *(ITESM / OMRON México)*: gripper electromagnético diseñado en CAD e impreso en 3D, más detección de obstáculos con sensores ultrasónicos y corrección de trayectoria.
+- **Rift:** JWT authentication, unit tests (JUnit + Mockito) and E2E tests with Selenium covering project and Scrum board flows.
+- **JurAid:** role-based access control (lawyers, clients, students) and biometric login with Android's BiometricPrompt API.
+- **Cobots + ROS + IoT** *(ITESM / OMRON Mexico)*: electromagnetic gripper designed in CAD and 3D printed, plus obstacle detection with ultrasonic sensors and trajectory correction.
 
 ## Tech Stack
 
@@ -89,24 +88,24 @@ class AlvaroLozano:
 ![Cisco](https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-## Certificaciones
+## Certifications
 
 
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlvaroCheese&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroCheese&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=TU-USUARIO&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AlvaroCheese&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-<p align="center"><b>Contáctame:</b></p>
+<p align="center"><b>Contact me:</b></p>
 
 <p align="center">
   <a href="mailto:alvaroeduardo754@gmail.com"><img src="https://img.shields.io/badge/EMAIL-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
